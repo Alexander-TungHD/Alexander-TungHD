@@ -3,7 +3,7 @@
 - 👀 I’m interested in BA, PO, BD, BI
 - 🌱 I’m currently learning SQL, Python, R, Excel, Power BI
 - 🌱 I’m currently learning Machine Learning, Deep Learning, AI
-- 💞️ I’m looking to collaborate on any projects related to R, Python and Machine Learning on Finance  
+- 💞️ I’m looking to collaborate on any projects related to SQL, R, Python and Machine Learning on Finance  
 - 📫 How to reach me: alexanderhdt04.job@gmail.com
 - 😄 Pronouns: he/him
 
